@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\",
+  "WorkspaceRootPath": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|c:\\users\\a0976\\onedrive\\desktop\\c#webform\\test\\webapplication3\\webapplication3\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|c:\\users\\a0976\\onedrive\\desktop\\gitrepostory\\webapplication3\\webapplication3\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\webapplication3\\models\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\webapplication3\\models\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\webapplication3\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\webapplication3\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A699A5E6-A564-433D-AAC3-416D1902BFBC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Views\\hello\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Views\\hello\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication3\\Views\\hello\\Index.cshtml",
-              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Views\\hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Views\\hello\\Index.cshtml",
               "RelativeToolTip": "WebApplication3\\Views\\hello\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAXAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-21T08:35:27.445Z",
               "EditorCaption": ""
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FileName.cs",
-              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Models\\FileName.cs",
+              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Models\\FileName.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\FileName.cs",
-              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Models\\FileName.cs",
+              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Models\\FileName.cs",
               "RelativeToolTip": "WebApplication3\\Models\\FileName.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "helloController.cs",
-              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Controllers\\helloController.cs",
+              "DocumentMoniker": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Controllers\\helloController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\helloController.cs",
-              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\c#webform\\test\\WebApplication3\\WebApplication3\\Controllers\\helloController.cs",
+              "ToolTip": "C:\\Users\\a0976\\OneDrive\\Desktop\\gitrepostory\\WebApplication3\\WebApplication3\\Controllers\\helloController.cs",
               "RelativeToolTip": "WebApplication3\\Controllers\\helloController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
